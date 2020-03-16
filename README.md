@@ -1,5 +1,5 @@
 # 802.11ah
-Meu trabalho de bolsa de iniciação científica 
+Meu trabalho de iniciação científica 
 
 _Tags_: `802.11ah`,`IEEE`,`HaLow`,`5G`,`RAW`,`TWT`,`ns-3`,`sistemas`
 
